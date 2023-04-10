@@ -1,0 +1,7 @@
+2023-03-31T09:56:54+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: hit injectViewContentEvent
+2023-03-31T09:56:54+00:00 DEBUG Tt4b_Pixel_Class::inject_view_content_event: Missing option "access_token"
+2023-03-31T09:57:06+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-31T09:58:32+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-31T09:59:19+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-31T09:59:54+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
+2023-03-31T10:00:38+00:00 DEBUG tt4b_product_sync: missing access token for tt4b_product_sync
